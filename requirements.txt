@@ -1,0 +1,2 @@
+# AXON repose sur la bibliothèque standard de Python.
+# Ajoutez ici vos dépendances optionnelles (ex: requests) si vous connectez une API web réelle.
